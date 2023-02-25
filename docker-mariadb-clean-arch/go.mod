@@ -10,5 +10,5 @@ require (
 	github.com/golang-jwt/jwt v3.2.2+incompatible
 	github.com/klauspost/compress v1.13.4 // indirect
 	github.com/valyala/fasthttp v1.28.0 // indirect
-	golang.org/x/sys v0.0.0-20210809222454-d867a43fc93e // indirect
+	golang.org/x/sys v0.1.0 // indirect
 )
