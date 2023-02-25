@@ -12,5 +12,5 @@ require (
 	github.com/segmentio/encoding v0.2.16
 	github.com/valyala/fasthttp v1.22.0 // indirect
 	github.com/valyala/tcplisten v1.0.0 // indirect
-	golang.org/x/sys v0.0.0-20210324051608-47abb6519492 // indirect
+	golang.org/x/sys v0.1.0 // indirect
 )
